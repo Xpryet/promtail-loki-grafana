@@ -19,7 +19,7 @@ A simple implmenetation of Promtail, Loki and Grafana stack using Docker-Compose
 Clone the project
 
 ```bash
-  git clone git@github.com:NetOpsChic/promtail-loki-grafana.git
+  git clone git@github.com:Xpryet/promtail-loki-grafana.git
 ```
 
 Go to the project directory
